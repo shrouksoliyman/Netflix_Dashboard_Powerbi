@@ -19,4 +19,4 @@ Interactive dashboard analyzing Netflix movies and TV shows data from 1950 to 20
 
 ## 📂 Files
 - `Netflix.pbix` → Open with Power BI Desktop to explore interactively
-- `Netflix_Dashboard.png` → Dashboard preview
+- `Dashboard_screenshoot.png` → Dashboard preview
