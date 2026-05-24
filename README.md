@@ -13,6 +13,8 @@ Interactive dashboard analyzing Netflix movies and TV shows data from 1950 to 20
 - Power BI Desktop
 - DAX for measures
 - Data Visualization
+## 📸 Dashboard Preview
+![Netflix Dashboard](Dashboard_Screenshot.png)
 
 
 ## 📂 Files
