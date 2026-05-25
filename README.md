@@ -4,9 +4,9 @@
 Interactive dashboard analyzing Netflix movies and TV shows data from 1950 to 2020.
 
 ## 🔍 Key Insights
-- **Total Content**: 5K titles
-- **Movies**: 5K (97.23%)
-- **TV Shows**: 147 (2.77%)
+- **Total Content**: 5337 titles
+- **Movies**: 5189 (97.23%)
+- **TV Shows**: 148 (2.77%)
 - Peak content releases happened around 2018-2020
 
 ## 🛠️ Tools Used
